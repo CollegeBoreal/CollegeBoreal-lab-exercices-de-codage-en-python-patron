@@ -2,5 +2,5 @@
 
 Apprentissage du language Python par des exercices
 
-|  Exercise :hash:  |  Programme | Résultat |
-|-------------------|------------|----------|
+|  Exercise :hash:  |  Programme | Résultat | Date |
+|-------------------|------------|----------|------|
